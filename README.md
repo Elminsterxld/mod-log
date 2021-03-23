@@ -28,7 +28,7 @@ Sunucuda Biri İsim Değiştirince Loglatma
 
 Sunucuda Biri Avatar Değiştirince Loglatma
 
-Sunucu Tacı Loglatma 
+Sunucu Taçı Loglatma 
 
 Sunucu Partner Loglatma (`Partner Olma Veya Partner Alınması`)
 
