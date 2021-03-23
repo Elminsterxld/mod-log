@@ -1,6 +1,6 @@
 # Discord.JS Mod-Log
 
-# Discord.JS için kodlanmış Mod-Log Komutudur Yaklaşık 30 Event Civarı Log Tutar Sunucuyu Çok Rahat İzlersiniz.
+# Discord.JS için kodlanmış Mod-Log Kodudur Yaklaşık 30 Event Civarı Log Tutar Sunucuyu Çok Rahat İzlersiniz.
 
 # Mod Logun Tuttuğu Eventlerin Tam Listesi Aşağıda Verilmiştir.
 
