@@ -41,3 +41,5 @@ Sunucuda Biri Ses Kanalında Mute Yemesi Ve Kalkmasını Loglatma , Sağırlaşt
 Sunucuda Biri Yayın Açmasını Loglatma , Yayını Kapatmasını Loglatma
 
 # NOT : Partner Olma Ve Partnerlikten Çıkmayı Deneyemedim
+
+# UYARI : Kodun Benden Habersiz Paylaşılması Satılması Kesinlikle Yasaktır!
