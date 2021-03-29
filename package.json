@@ -4,9 +4,9 @@
   "//3": "updating this file will download and update your packages",
   "version": "0.0.1",
   "description": "Elminstr",
-  "main": "bot.js",
+  "main": "modlog.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node modlog.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
