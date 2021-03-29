@@ -1,0 +1,56 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "version": "0.0.1",
+  "description": "Elminstr",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "colorthief": "^2.3.2",
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord-logs": "^1.9.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "hastebin-gen": "^2.0.5",
+    "hexacolors": "^1.1.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.11",
+    "parse-ms": "^2.1.0",
+    "pretty-ms": "^7.0.1",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "srod-v2": "^1.0.2",
+    "superagent": "^6.1.0",
+    "twemoji-parser": "^13.0.0",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^3.4.2",
+    "ytdl-core-discord": "^1.2.5"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://nothing--.glitch.me/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "v12",
+    "*The-HellCat",
+    "express"
+  ]
+}
