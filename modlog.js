@@ -27,7 +27,6 @@ const {
 
   TOKEN,
 
-  WELCOME_CHANNEL,
 
   MOD_CHANNEL,
 
